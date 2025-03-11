@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pawan-11
-- 👀 I’m interested in algorithms and software development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on software projects and teaching math or programming
+- 👀 I’m interested in applying data structures and algorithms to build neat software solutions
+- 🌱 I’m currently building an application to contain all of my applications.
+- 💞️ I’m looking to collaborate on software projects
 - 📫 How to reach me? Email:pawanpreetmundi@gmail.com 
 
 <!---
